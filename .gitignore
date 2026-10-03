@@ -1,0 +1,9 @@
+# Ignora tudo por padrão e libera apenas o que faz parte da entrega:
+# o documento de requisitos (README.md) e seus anexos.
+/*
+!/.gitignore
+!/README.md
+!/anexos/
+
+# Arquivos de sistema
+.DS_Store
