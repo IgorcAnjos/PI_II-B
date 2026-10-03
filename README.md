@@ -10,6 +10,7 @@
 - **Disciplina:** Projeto Integrador II-B – Análise e Desenvolvimento de Sistemas (PUC Goiás / CEAD)
 - **Data:** Outubro de 2026
 - **Protótipo:** [Figma](https://www.figma.com/design/Ir08rnuZGgnQwQcxI73dYG/Prototipo---PI_II-B?node-id=0-1&t=i7wNcxpSjA3fGmta-1)
+- **Apresentação:** [Slides no Figma](https://www.figma.com/proto/pGBeEhCQzRdgJk5OLfB3ee/Apresenta%C3%A7%C3%A3o---PI_II-B?node-id=1-2&p=f&scaling=contain&content-scaling=fixed&page-id=0%3A1)
 
 ## Índice
 
